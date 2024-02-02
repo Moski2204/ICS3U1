@@ -1,0 +1,4 @@
+Two ways to use comments 
+
+One line comments is //
+To do multiple line comments is /* */
